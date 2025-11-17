@@ -1,0 +1,35 @@
+# robots.txt for TikTok İndirici
+
+# Allow all search engines
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://tiktokindirici.com/sitemap.xml
+
+# Crawl delay (optional - prevents server overload)
+Crawl-delay: 10
+
+# Block access to specific files/folders (if any)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow specific crawlers with higher priority
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+# Block bad bots (optional)
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /

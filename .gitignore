@@ -1,0 +1,78 @@
+# Hassas Dosyalar
+.env
+.env.local
+.env.production
+config.js
+secrets.js
+
+# API Keys (eğer ayrı dosyada tutulursa)
+**/api-keys.js
+**/credentials.json
+
+# Log Dosyaları
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node Modules (eğer backend eklenirse)
+node_modules/
+package-lock.json
+yarn.lock
+
+# IDE / Editor Dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary Files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Build / Dist (eğer build process varsa)
+dist/
+build/
+*.min.js
+*.min.css
+
+# Test Coverage
+coverage/
+.nyc_output/
+
+# OS Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# Analytics & Tracking Codes
+google-analytics.js
+analytics-config.js
+tracking-*.js
+
+# Personal Notes
+TODO.txt
+NOTES.md
+personal-*
+
+# Database (eğer eklenirse)
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache
+.cache/
+*.cache
+
+# Netlify
+.netlify/
+netlify.toml
