@@ -5,7 +5,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://tiktokindirici.com/sitemap.xml
+Sitemap: https://tiktok-vid-downloader.vercel.app/sitemap.xml
 
 # Crawl delay (optional - prevents server overload)
 Crawl-delay: 10

@@ -6,7 +6,7 @@
     
     <!-- Ana Sayfa -->
     <url>
-        <loc>https://tiktokindirici.com/</loc>
+        <loc>https://tiktok-vid-downloader.vercel.app/</loc>
         <lastmod>2024-11-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
@@ -15,21 +15,21 @@
     <!-- Gelecekte eklenebilecek sayfalar için şablon -->
     <!--
     <url>
-        <loc>https://tiktokindirici.com/hakkimizda</loc>
+        <loc>https://tiktok-vid-downloader.vercel.app/hakkimizda</loc>
         <lastmod>2024-11-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     
     <url>
-        <loc>https://tiktokindirici.com/nasil-kullanilir</loc>
+        <loc>https://tiktok-vid-downloader.vercel.app/nasil-kullanilir</loc>
         <lastmod>2024-11-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://tiktokindirici.com/sss</loc>
+        <loc>https://tiktok-vid-downloader.vercel.app/sss</loc>
         <lastmod>2024-11-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
